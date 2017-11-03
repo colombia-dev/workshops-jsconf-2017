@@ -1,4 +1,4 @@
-# Workshops channels, location and requirements
+# Workshops channels, locations and requirements
 
 Here is a list for all channels in slack and requirements (if specified) for all workshops in JSconf Colombia 2017
 
