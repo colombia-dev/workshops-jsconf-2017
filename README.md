@@ -93,7 +93,8 @@ __Channel__: [#wks-reactive-vuejs](https://jsconfco2017.slack.com/messages/C7RLV
 
 #### Accessibility: tips and tricks - Claudia Lagos
 __Channel__: [#wks-accessibility](https://jsconfco2017.slack.com/messages/C7SAQKMEW/) - __Location__: Room 3
-
+##### Requirements:
+Clone this repo: https://github.com/cllagosr/a11y
 
 ---
 ---
