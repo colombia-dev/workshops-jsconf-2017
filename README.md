@@ -101,6 +101,7 @@ __Channel__: [#wks-nuxtjs](https://jsconfco2017.slack.com/messages/C7SAS3A74/) -
 ##### Requirements:
 * NodeJS & NPM
 * Install Vue-CLI: `npm install -g vue-cli`
+* [GitHub personal access tokens](https://github.com/settings/tokens)
 
 ---
 
