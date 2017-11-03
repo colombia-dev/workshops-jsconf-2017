@@ -121,3 +121,6 @@ __Channel__: [#wks-realtime-games](https://jsconfco2017.slack.com/messages/C7T7B
 
 #### Observar y Reaccionar con RxJS - Juan Osorio
 __Channel__: [#wks-rxjs](https://jsconfco2017.slack.com/messages/C7S8G5TNF/) - __Location__: Room 3
+##### Requirements:
+* NodeJS & NPM
+* Clone this repo: https://github.com/jpoo90/Observar-Reaccionar
