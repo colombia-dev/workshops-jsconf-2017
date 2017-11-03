@@ -88,6 +88,8 @@ __Channel__: [#wks-state-management](https://jsconfco2017.slack.com/messages/C7R
 
 #### Build reactive interfaces with Vue.js - Giovanny Gongora
 __Channel__: [#wks-reactive-vuejs](https://jsconfco2017.slack.com/messages/C7RLVSEQG/) - __Location__: Room 2
+##### Requirements:
+Clone this repo: https://github.com/Gioyik/vue.js-workshop
 
 ---
 
