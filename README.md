@@ -59,7 +59,15 @@ __Channel__: [#wks-js-professional](https://jsconfco2017.slack.com/messages/C7SC
 
 #### Unit Testing con AVA - Jenny Mazo
 __Channel__: [#wks-testing-con-ava](https://jsconfco2017.slack.com/messages/C7RLUUN2U/) - __Location__: Room 3
-
+##### Requirements:
+* Install [Node.js](http://nodejs.org/)
+* Create a project folder and run `npm init`
+* Fill the package.json fields
+* Run `npm install --save-dev ava`
+* Run `ava --init` to add AVA to the package.js
+* Create a file `index.js` 
+* Create a folder called tests with a `.js` file inside.
+* Create a script on your package.js `"test": "ava --verbose"
 
 ---
 ---
